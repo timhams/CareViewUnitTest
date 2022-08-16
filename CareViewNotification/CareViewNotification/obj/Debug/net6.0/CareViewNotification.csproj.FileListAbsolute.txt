@@ -1,0 +1,12 @@
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\bin\Debug\net6.0\CareViewNotification.deps.json
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\bin\Debug\net6.0\CareViewNotification.dll
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\bin\Debug\net6.0\CareViewNotification.pdb
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\obj\Debug\net6.0\CareViewNotification.csproj.AssemblyReference.cache
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\obj\Debug\net6.0\CareViewNotification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\obj\Debug\net6.0\CareViewNotification.AssemblyInfoInputs.cache
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\obj\Debug\net6.0\CareViewNotification.AssemblyInfo.cs
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\obj\Debug\net6.0\CareViewNotification.csproj.CoreCompileInputs.cache
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\obj\Debug\net6.0\CareViewNotification.dll
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\obj\Debug\net6.0\refint\CareViewNotification.dll
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\obj\Debug\net6.0\CareViewNotification.pdb
+C:\Aussiesoft\Care\CareViewNotification\CareViewNotification\obj\Debug\net6.0\ref\CareViewNotification.dll
